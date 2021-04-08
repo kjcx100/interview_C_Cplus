@@ -1,5 +1,5 @@
-# interview_C_Cplus
-interview_C_C++
+# learn_C_Cplus
+learn_C_C++
 
 # useful website
 
